@@ -101,3 +101,7 @@ tmdb-cli-tool/
 
 ## Author
 Ahmed Hesham
+
+## Project URLs
+- https://roadmap.sh/projects/tmdb-cli
+- https://github.com/AhmedHeshamC/tmdbCliTool
