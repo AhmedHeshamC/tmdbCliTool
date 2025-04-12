@@ -1,0 +1,29 @@
+{
+  "name": "tmdb-cli-tool",
+  "version": "1.0.0",
+  "description": "A CLI tool to fetch movie information from The Movie Database (TMDB)",
+  "main": "main.js",
+  "bin": {
+    "tmdb-app": "./main.js"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tmdb",
+    "cli",
+    "movies",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "node-fetch": "^2.7.0",
+    "yargs": "^17.7.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
